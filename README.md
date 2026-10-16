@@ -20,7 +20,6 @@ Missions: deliveries, races and cop escapes. Police chases raise your wanted sta
 | Start | Pause |
 
 ## Screenshots
-`shot1.png` and `shot2.png` (see note below if missing).
+![Neon Bay screenshot 1](shot1.png)
 
-## Note on images
-The GitHub connector used for this backup only writes text, so screenshots are stored as base64 text (`*.png.b64`). Restore with: `base64 -d shot1.png.b64 > shot1.png`
+![Neon Bay screenshot 2](shot2.png)
